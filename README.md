@@ -1,7 +1,9 @@
 # 💫 About Me:
-🧑‍💻 Full Stack Engineer
-🚀 Building Scalable MERN Stack & Python/Flask Applications
-🔗 REST APIs, webMethods, & Apache Kafka
+🧑‍💻 Full Stack Engineer <br>
+🚀 Building scalable applications using MERN Stack & Python (Flask) <br>
+🔗 Experienced in designing REST APIs, working with webMethods, and event-driven systems using Apache Kafka <br>
+💡 Passionate about problem-solving, backend development, and creating efficient, user-focused solutions <br>
+📈 Continuously learning and exploring new technologies in AI and modern web development <br>
 
 
 ## 🌐 Socials:

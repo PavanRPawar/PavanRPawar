@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full Stack Engineer | Building Scalable MERN Stack & Python/Flask Applications | REST APIs, webMethods, & Apache Kafka
+🧑‍💻 Full Stack Engineer
+🚀 Building Scalable MERN Stack & Python/Flask Applications
+🔗 REST APIs, webMethods, & Apache Kafka
 
 
 ## 🌐 Socials:
